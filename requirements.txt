@@ -1,0 +1,7 @@
+torch
+transformers
+accelerate
+safetensors
+Pillow
+opencv-python
+git+https://github.com/huggingface/diffusers

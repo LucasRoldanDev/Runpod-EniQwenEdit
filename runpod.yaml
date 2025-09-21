@@ -1,0 +1,4 @@
+name: qwen-image-edit
+runtime: nvidia
+gpu: true
+handler: handler.generator_handler
